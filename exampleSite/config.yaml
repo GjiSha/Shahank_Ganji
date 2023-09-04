@@ -175,8 +175,8 @@ params:
          # name: "View the project"
          # url: "https://example.com"
         content: 
-        - Developed and deployed a spice blending optimization tool using linear programming, reducing production costs by 1 Rupee/Kg.
-        - Led the creation of data pipelines and dynamic dashboards, migrating essential MIS reports from Excel to a centralized data system.
+         Developed and deployed a spice blending optimization tool using linear programming, reducing production costs by 1 Rupee/Kg.
+         Led the creation of data pipelines and dynamic dashboards, migrating essential MIS reports from Excel to a centralized data system.
     
   # Education
   education:
