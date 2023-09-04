@@ -118,9 +118,11 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    title: "Shashank Ganji."
+    subtitle: "Exploring Data Through Code, Analysis, and Engineering"
+    content: "A results-driven analytics professional with a strong technical foundation and a keen aptitude for critical thinking. 
+    With experience in analytics and client engagement, 
+    I excel in transforming data into actionable insights, driving informed decision-making, and delivering tangible value to organizations."
     image: /images/hero.svg
     bottomImage:
       enable: true
