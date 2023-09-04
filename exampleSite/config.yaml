@@ -157,7 +157,7 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-         - "Python"
+        - "Python"
         - "SQL"
         - "Power BI, Tableau, ThoughtSpot"
         - "Data Science"
