@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-#title: "Hugo Profile"
+title: "Hugo Profile"
 theme: hugo-profile
 
 outputs:
@@ -73,7 +73,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+     defaultTheme:  "dark" #"light"
 
   font:
     fontSize: 1rem # default: 1rem
