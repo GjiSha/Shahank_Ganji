@@ -194,7 +194,9 @@ params:
         #GPA: "3.8 out of 5.0"
         content: |-
           Courses
-            - Data Processing at Scale , Semantic Web Minning, Foundations of Algorithms.
+            - Data Processing at Scale 
+            - Semantic Web Minning
+            - Foundations of Algorithms.
        title: "B.Tech-M.Tech Dual Degree in Electrical Engineering"
         school:
           name: "National Institute of Technology Rourkela"
