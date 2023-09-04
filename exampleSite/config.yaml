@@ -120,9 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Shashank Ganji"
     subtitle: "Exploring Data Through Code, Analysis, and Engineering"
-    content: "A results-driven analytics professional with a strong technical foundation and a keen aptitude for critical thinking. 
-    With experience in analytics and client engagement, 
-    I excel in transforming data into actionable insights, driving informed decision-making, and delivering tangible value to organizations.."
+    content: A results-driven analytics professional with a strong technical foundation and a keen aptitude for critical thinking. With experience in analytics and client engagement, I excel in transforming data into actionable insights, driving informed decision-making, and delivering tangible value to organizations.."
     image: /images/Ganji Shashank passport.JPG
     bottomImage:
       enable: true
@@ -165,7 +163,7 @@ params:
         - "Big Data"
   # Experience
   experience:
-     enable: true
+    enable: true
     # title: "Custom Name"
     items:
       - job: "Assistant Manager - Analytics"
