@@ -194,9 +194,7 @@ params:
         #GPA: "3.8 out of 5.0"
         content: |-
           Courses
-            - Data Processing at Scale , Semantic Web Minning, Foundations of Algorithms. 
-            #- Tempora esse, eaque delectus 
-            #nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            - Data Processing at Scale , Semantic Web Minning, Foundations of Algorithms.
        title: "B.Tech-M.Tech Dual Degree in Electrical Engineering"
         school:
           name: "National Institute of Technology Rourkela"
@@ -306,19 +304,19 @@ params:
     #   emailCaption: "Enter your email address"
     #   messageCaption: "Enter your message here"
 
-  footer:
+  #footer:
     #recentPosts:
      # path: "blogs"
       #count: 3
       #title: Recent Posts
       #enable: true
       #disableFeaturedImage: false
-    socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+    #socialNetworks:
+     # github: https://github.com
+     # linkedin: https://linkedin.com
+     # twitter: https://twitter.com
+      #instagram: https://instagram.com
+      #facebook: https://facebook.com
 
   # List pages like blogs and posts
  # listPages:
